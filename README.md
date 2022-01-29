@@ -1,0 +1,1 @@
+Install pipx, brownie and run '~ brownie run scripts/deploy.py --network rinkeby' for deploying the contract into the rinkeby test network. Run '~ brownie run scripts/read_value.py --network rinkeby' for reading the value stored in the favorite_number variable (should be 0). 
